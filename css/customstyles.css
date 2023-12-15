@@ -1,0 +1,41 @@
+.background{
+    background-color: tan;
+    background-size: 200%;
+    background-position: center;
+}
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+li{
+    font-style: italic;
+    color: rgb(37, 36, 36);
+    font-weight: lighter;
+}
+.heading{
+    font-style: normal;
+    color: black;
+    font-weight: bold;
+}
+.toptitle{
+    text-align: center;
+}
+h1{
+    font-size: 70px;
+    font-family: cursive;
+    border: solid black 12px;
+}
+a{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.image-container {
+    border: 40px solid black;
+    padding: 20px;
+    display: inline-block;
+  }
+.video-center{
+    border: 40px solid black;
+    padding: 20px;
+    display: inline-block;
+}
